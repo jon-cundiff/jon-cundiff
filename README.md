@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jon-cundiff
 - 👀 I’m interested in web and mobile technologies.
-- 🌱 I’m currently learning Javascript, Python, and C#
+- 🌱 I’m currently learning Javascript, Python, Dart, and C#
 
 <!---
 jon-cundiff/jon-cundiff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
